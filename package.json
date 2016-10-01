@@ -1,0 +1,26 @@
+{
+  "name": "trade_test",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/malefique/trade_test.git"
+  },
+  "author": "Oleg M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malefique/trade_test/issues"
+  },
+  "homepage": "https://github.com/malefique/trade_test/",
+  "dependencies": {
+    "mocha": "~2.0.1"
+  },
+  "devDependencies": {
+    "async": "*",
+    "mocha": "*"
+  }
+}
